@@ -11,7 +11,7 @@ You will need to provide a way to authenticate with the Webex API - either using
 
 ## Claimed Targets
 To enable the tasks, you will need to claim an "HTTP Endpoint" Target in Intersight with your personal credentials.
-
+![Target Claim](./screenshots/target_claim.png) 
 
 
 
