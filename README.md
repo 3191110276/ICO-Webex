@@ -20,13 +20,13 @@ This repository includes the following tasks:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_webex/tasks/CreateMembership.json">Link</a></td>
+    <td><a href="./tasks/CreateMembership.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_webex/tasks/DeleteMembership.json">Link</a></td>
+    <td><a href="./tasks/DeleteMembership.json">Link</a></td>
   </tr>
   
   <!-- Message -->
@@ -35,13 +35,13 @@ This repository includes the following tasks:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_webex/tasks/CreateMessage.json">Link</a></td>
+    <td><a href="./tasks/CreateMessage.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_webex/tasks/DeleteMessage.json">Link</a></td>
+    <td><a href="./tasks/DeleteMessage.json">Link</a></td>
   </tr>
   
   <!-- Room -->
@@ -50,13 +50,13 @@ This repository includes the following tasks:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_webex/tasks/CreateRoom.json">Link</a></td>
+    <td><a href="./tasks/CreateRoom.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_webex/tasks/DeleteRoom.json">Link</a></td>
+    <td><a href="./tasks/DeleteRoom.json">Link</a></td>
   </tr>
   
   <!-- Webhook -->
@@ -65,13 +65,13 @@ This repository includes the following tasks:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_webex/tasks/CreateWebhook.json">Link</a></td>
+    <td><a href="./tasks/CreateWebhook.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_webex/tasks/DeleteWebhook.json">Link</a></td>
+    <td><a href="./tasks/DeleteWebhook.json">Link</a></td>
   </tr>
 </table>
 
