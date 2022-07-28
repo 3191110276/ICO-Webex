@@ -76,8 +76,6 @@ This repository includes the following tasks:
 </table>
 
 
-
-
 ## Prerequisites
 You will need to provide a way to authenticate with the Webex API - either using your own account or using a Bot.
 
@@ -86,8 +84,12 @@ To enable the tasks, you will need to claim an "HTTP Endpoint" Target in Intersi
 ![Target Claim](./screenshots/target_claim.png) 
 
 
-
 ## Notes
+After importing the tasks you can find them in the Webex category:
+![Target Claim](./screenshots/tasks.png)
 
+To use these tasks, you need to specify the target:
+![Target Claim](./screenshots/target_usage.png) 
 
+Reference for the Webex API: [developer.webex.com](https://developer.webex.com)
 
